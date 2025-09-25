@@ -40,4 +40,4 @@ The solution integrates **NLog** for structured logging and persists logs to **S
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<DevLightening>/Microservices-Traceability.git
+   git clone https://github.com/<devlightening>/Microservices-Traceability.git
